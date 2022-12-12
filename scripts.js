@@ -74,7 +74,15 @@ function Recipe(recipeName, contributorName, imgURL, recipeID) {
     
   }
   
+  
 }
+
+Home = new Recipe(
+  "Welcome to Sweets For Lease",
+  "All Amazing Sweet Connoisseurs",
+  "https://images.unsplash.com/photo-1484979045040-0ab3854b6acb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+  "home",
+);
 
 
 MonkeyBreadKabobs = new Recipe(

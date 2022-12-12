@@ -200,7 +200,7 @@ $recipes["pfeffernusseCookies"]["directions"][] = "Dust cooled cookies with conf
 
 //Moon Cake 6
 
-$recipes["moonCake"] = array;
+$recipes["moonCake"] = array();
 $recipes["moonCake"]["ingredients"] = array();
 $recipes["moonCake"]["equipment"] = array();
 $recipes["moonCake"]["directions"] = array();
