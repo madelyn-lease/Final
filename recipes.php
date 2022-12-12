@@ -1,6 +1,6 @@
 <?
 
-// Recipe response PHP file for TP9
+// Recipe response PHP file for Final Project
 
 $recipes = array();
 
